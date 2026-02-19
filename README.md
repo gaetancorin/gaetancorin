@@ -16,4 +16,4 @@ My stacks & playground in my GitHub repositories:
 **Tools used in professional environments:**  
 Microsoft Azure, Amazon AWS, Jira
 
-📫 Open to Opportunities [<img src="https://img.shields.io/badge/LinkedIn-Gaetan%20Corin%20–%20Data%20Engineer%20-blue.svg?logo=linkedin" alt="LinkedIn" style="vertical-align: middle;"/>](https://www.linkedin.com/in/gaetancorin/)
+📫 Open to Opportunities [<img src="https://img.shields.io/badge/LinkedIn-Gaetan%20Corin%20–%20Data%20Engineer%20-blue.svg?logo=linkedin" alt="LinkedIn" style="vertical-align: bottom;"/>](https://www.linkedin.com/in/gaetancorin/)
