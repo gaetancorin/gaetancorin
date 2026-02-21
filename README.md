@@ -2,7 +2,7 @@
 
 Python Data Engineer with a background in Software Development.
 
-My stacks & playground in my [GitHub repositories](https://github.com/gaetancorin/gaetancorin/blob/master/README2.md):
+My stacks & playground in my GitHub repositories:
 
 - **Languages:** Python, Shell  
 - **Frameworks:** Flask, Django  
