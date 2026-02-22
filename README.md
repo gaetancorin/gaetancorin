@@ -1,16 +1,17 @@
-## Hi there 👋
+### 👋 Hi, I'm **Gaëtan**
 
-<!--
-**gaetancorin/gaetancorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Data Engineer with a background in Software Development.
 
-Here are some ideas to get you started:
+My stacks & playground in my GitHub repositories:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, Shell  
+- **Frameworks:** Flask, Django  
+- **Orchestration & Workflows:** Airflow, Spark, PySpark  
+- **Cloud & DevOps:** Amazon S3, Amazon IAM, GitHub Actions CI/CD, Docker, Docker Compose  
+- **Monitoring & Alerting:** Prometheus, Grafana, Gmail, Mailhog  
+- **Databases:** PostgreSQL, MongoDB 
+- **Data Visualization:** Metabase, Matplotlib  
+- **Unit Testing:** Pytest  
+
+**Tools used in professional environments:**  
+Microsoft Azure, Amazon AWS, Jira
